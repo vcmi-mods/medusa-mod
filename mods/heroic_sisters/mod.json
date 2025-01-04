@@ -1,0 +1,34 @@
+{
+	"name" : "Heroic sisters",
+	"description" : "Two new heroes for nigon faction.",
+	"modType" : "Heroes",
+	"author" : "swats-the-floran",
+	"contact" : "https://forum.vcmi.eu/t/how-to-open-def-sprites/6174/124",
+	"version" : "0.1",
+	"compatibility" :
+	{
+		"min" : "1.6.0"
+	},
+	"settings" : {
+		"heroes" : {
+			"minimalPrimarySkills": [ 0, 0, 1, 0]
+		}
+	},
+	"depends" : [
+        "tides-of-war.skills"
+    ],
+	"heroClasses" : [
+		"config/classes/sillylord"
+	],
+	"heroes" :
+	[
+		"config/heroes/lussy",
+        "config/heroes/sillycate"
+	],
+    "keepDisabled" : true,
+	
+	"czech" : {
+		"name": "Hrdinské sestry",
+		"description": "Dvě nové hrdinky pro včetně nové rasy Paní ticha."
+	}
+}

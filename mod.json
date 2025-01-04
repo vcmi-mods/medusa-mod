@@ -1,0 +1,17 @@
+{
+    "name" : "Medusas are the best girls",
+    "description" : "Backgrounds with medusas and two new heroes for Dungeon.",
+    "version" : "1.0 ",
+	"author" : "swats-the-floran",
+	"contact" : "https://forum.vcmi.eu/t/how-to-open-def-sprites/6174/124",
+    "modType" : "Interface",
+    "compatibility" :
+    {
+        "min" : "1.4.0"
+    },
+    "changelog" :
+    {
+        "1.0 (2024.02.28)" : ["Initial release"],
+        "1.1 (2024.01.04)" : ["moved to a separated mod"]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "basepath" : "medusa_battle/",
+    "images" :
+    [
+        {
+            "group": 0,
+            "frame": 0,
+            "file": "standing.png"
+        },
+        {
+            "group": 1,
+            "frame": 0,
+            "file": "standing.png"
+        },
+        {
+            "group": 2,
+            "frame": 0,
+            "file": "standing.png"
+        },
+        {
+            "group": 3,
+            "frame": 0,
+            "file": "standing.png"
+        },
+        {
+            "group": 4,
+            "frame": 0,
+            "file": "standing.png"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+	"lussy" :
+	{
+		"class" : "warlock",
+		"female" : true,
+		"images" : {
+			"specialtySmall" : "lussy/medusas_spec_small.png",
+			"specialtyLarge" : "lussy/medusas_spec_large.png",
+			"large" : "lussy/lussy_portrait_large.png",
+			"small" : "lussy/lussy_portrait_small.png"
+		},
+		"army" : [
+			{
+				"creature" : "troglodyte",
+				"min" : 30,
+				"max" : 40
+			},
+			{
+				"creature" : "medusa",
+				"min" : 2,
+				"max" : 4
+			},
+			{
+				"creature" : "medusa",
+				"min" : 1,
+				"max" : 2
+			}
+		],
+		"skills" : [
+			{
+				"skill" : "wisdom",
+				"level" : "basic"
+			},
+			{
+				"skill" : "intimidation",
+				"level" : "basic"
+			}
+		],
+		"specialty" : {
+            "base" : {
+				"limiters" : [
+					{
+						"type" : "CREATURE_TYPE_LIMITER",
+						"parameters" : [ "medusa", true ]
+					}
+				]
+			},
+			"bonuses" : {
+                "petrification" :
+                {
+                    "type" : "SPELL_AFTER_ATTACK",
+                    "subtype" : "spell.stoneGaze",
+                    "val" : 50,
+                    "addInfo" : [0,2]
+                }
+			}
+		},
+		"spellbook" : [ "blind" ],
+		"texts" :
+		{
+			"name" : "Lussy Silent",
+			"biography" : "Lussy was born mute and never could say a single word. But what scares you the most? A Nighon warlord that is twice your size and shouts at you, shaking an axe or the Nighon lord that stays silent... stays silent and looks into your eyes.",
+			"specialty" : {
+				"name" : "Medusas",
+				"description" : "Dramatically increases the chance of petrification in melee attacks.",
+				"tooltip" : "{Medusas}\n\\nCreature bonus: Medusa and Queen Medusa"
+			}
+		}
+	}
+}
