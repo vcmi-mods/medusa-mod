@@ -1,0 +1,13 @@
+{
+	"hero.medusa-mod.heroic_sisters.lussy.biography" : "Lussy urodziła się niema i nigdy nie mogła wypowiedzieć ani jednego słowa. Ale co budzi większy strach? Władca wojenny z Nighon, który jest dwa razy większy od ciebie i krzyczy, machając toporem, czy lord z Nighon, który milczy... milczy i patrzy ci prosto w oczy.",
+	"hero.medusa-mod.heroic_sisters.lussy.name" : "Lussy Milcząca",
+	"hero.medusa-mod.heroic_sisters.lussy.specialty.description" : "Znacznie zwiększa szansę na petryfikację w atakach wręcz.",
+	"hero.medusa-mod.heroic_sisters.lussy.specialty.name" : "Meduzy",
+	"hero.medusa-mod.heroic_sisters.lussy.specialty.tooltip" : "{Meduzy}\n\nPremia dla jednostek: Meduza i Królowa Meduz",
+	"hero.medusa-mod.heroic_sisters.sillycate.biography" : "Dzięki dobrym relacjom ze swoją starszą siostrą Lussy i pod jej ochroną, Silicate Milcząca wiedzie całkiem dobre życie w Nighon. Jej błędy są wybaczane, a straty kompensowane. Jej istnienie jest jasnym promykiem radości i szczęścia w ciemnym, okrutnym królestwie.",
+	"hero.medusa-mod.heroic_sisters.sillycate.name" : "Silicate Milcząca",
+	"hero.medusa-mod.heroic_sisters.sillycate.specialty.description" : "Zwiększa prędkość wszystkich Meduz i Królowych Meduz o 2 oraz podwaja liczbę ich strzał.",
+	"hero.medusa-mod.heroic_sisters.sillycate.specialty.name" : "Meduzy",
+	"hero.medusa-mod.heroic_sisters.sillycate.specialty.tooltip" : "{Meduzy}\n\nPremia dla jednostek: Meduza i Królowa Meduz",
+	"heroClass.medusa-mod.heroic_sisters.sillylord.name" : "Śmieszwładca"
+}
