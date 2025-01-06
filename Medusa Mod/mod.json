@@ -1,25 +1,25 @@
 {
     "name" : "Medusas are the best girls",
     "description" : "Backgrounds with medusas and two new heroes for Dungeon.",
-    "version" : "1.2 ",
-	"author" : "swats-the-floran",
-	"contact" : "https://forum.vcmi.eu/t/how-to-open-def-sprites/6174/124",
+    "version" : "1.3",
+    "author" : "swats-the-floran",
+    "contact" : "https://forum.vcmi.eu/t/how-to-open-def-sprites/6174/124",
     "modType" : "Interface",
-    "compatibility" :
-    {
+    "compatibility" : {
         "min" : "1.4.0"
     },
-	"polish": {
-		"name": "Meduzy to najlepsze dziewczęta",
-		"description": "Tła z meduzami i dwie nowe bohaterki Lochu",
-		"translations": [
-			"translation/polish.json"
-		]
-	},
-    "changelog" :
-    {
+    "changelog" : {
         "1.0 (2024.02.28)" : ["Initial release"],
         "1.1 (2025.01.04)" : ["moved to a separated mod"],
-        "1.2 (2025.01.05)" : ["Polish translation by FallainBlack"]
+        "1.2 (2025.01.05)" : ["Polish translation by FallainBlack"],
+        "1.3 (2025.01.06)" : ["added petrification spell for lussy silent"]
+    },
+
+    "polish": {
+        "name": "Meduzy to najlepsze dziewczęta",
+        "description": "Tła z meduzami i dwie nowe bohaterki Lochu",
+        "translations": [
+            "translation/polish.json"
+        ]
     }
 }

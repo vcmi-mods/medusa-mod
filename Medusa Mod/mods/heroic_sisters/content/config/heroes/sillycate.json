@@ -1,70 +1,70 @@
 {
-	"sillycate" :
-	{
-		"class" : "sillylord",
-		"female" : true,
-		"images" : {
-			"specialtySmall" : "sillycate/medusas_spec_small.png",
-			"specialtyLarge" : "sillycate/medusas_spec_large.png",
-			"large" : "sillycate/sillycate_portrait_large.png",
-			"small" : "sillycate/sillycate_portrait_small.png"
-		},
-		"army" : [
-			{
-				"creature" : "troglodyte",
-				"min" : 30,
-				"max" : 40
-			},
-			{
-				"creature" : "medusa",
-				"min" : 2,
-				"max" : 4
-			},
-			{
-				"creature" : "medusa",
-				"min" : 1,
-				"max" : 2
-			}
-		],
-		"skills" : [
-			{
-				"skill" : "archery",
-				"level" : "basic"
-			},
-			{
-				"skill" : "leadership",
-				"level" : "basic"
-			}
-		],
-		"specialty" : {
+    "sillycate" :
+    {
+        "class" : "sillylord",
+        "female" : true,
+        "images" : {
+            "specialtySmall" : "sillycate/medusas_spec_small.png",
+            "specialtyLarge" : "sillycate/medusas_spec_large.png",
+            "large" : "sillycate/sillycate_portrait_large.png",
+            "small" : "sillycate/sillycate_portrait_small.png"
+        },
+        "army" : [
+            {
+                "creature" : "troglodyte",
+                "min" : 30,
+                "max" : 40
+            },
+            {
+                "creature" : "medusa",
+                "min" : 2,
+                "max" : 4
+            },
+            {
+                "creature" : "medusa",
+                "min" : 1,
+                "max" : 2
+            }
+        ],
+        "skills" : [
+            {
+                "skill" : "archery",
+                "level" : "basic"
+            },
+            {
+                "skill" : "leadership",
+                "level" : "basic"
+            }
+        ],
+        "specialty" : {
             "base" : {
-				"limiters" : [
-					{
-						"type" : "CREATURE_TYPE_LIMITER",
-						"parameters" : [ "medusa", true ]
-					}
-				]
-			},
-			"bonuses" : {
+                "limiters" : [
+                    {
+                        "type" : "CREATURE_TYPE_LIMITER",
+                        "parameters" : [ "medusa", true ]
+                    }
+                ]
+            },
+            "bonuses" : {
                 "stack_speed" : {
                     "type" : "STACKS_SPEED",
                     "val" : 2
                 },
-				"more_missiles" : {
-					"type" : "SHOTS",
-					"val" : 6
-				}
-			}
-		},
-		"texts" :
-		{
-			"name" : "SillyCate Silent",
-			"biography" : "By being in good relationship with her older sister Lussy and under her protection, Silicate Silent has a pretty good life in Nighon. Her fails are being forgiven and losses compensated. Her existence is a bright spot of joy and happiness in the dark cruel kingdom.",
-			"specialty" : {
-				"name" : "Medusas",
-				"description" : "Increases speed of any Medusas and Medusa Queens by 2 and doubles amount of their arrows.",
-				"tooltip" : "{Medusas}\n\\nCreature bonus: Medusa and Queen Medusa"
-			}
-		}
-	}
+                "more_missiles" : {
+                    "type" : "SHOTS",
+                    "val" : 6
+                }
+            }
+        },
+        "texts" :
+        {
+            "name" : "SillyCate Silent",
+            "biography" : "By being in good relationship with her older sister Lussy and under her protection, Silicate Silent has a pretty good life in Nighon. Her fails are being forgiven and losses compensated. Her existence is a bright spot of joy and happiness in the dark cruel kingdom.",
+            "specialty" : {
+                "name" : "Medusas",
+                "description" : "Increases speed of any Medusas and Medusa Queens by 2 and doubles amount of their arrows.",
+                "tooltip" : "{Medusas}\n\\nCreature bonus: Medusa and Queen Medusa"
+            }
+        }
+    }
 }

@@ -2,14 +2,14 @@
     "sillylord" : {
         "affinity" : "might",
         "defaultTavern" : 5,
-		"animation" :
-		{
-			"battle" : 
-			{
-				"female" : "medusa_battle",
-				"male"   : "medusa_battle"
-			}
-		},
+        "animation" :
+        {
+            "battle" : 
+            {
+                "female" : "medusa_battle",
+                "male"   : "medusa_battle"
+            }
+        },
         "commander" : "troglodyte",
         "faction" : "dungeon",
         "highLevelChance" : { "attack" : 30, "defence" : 30, "knowledge" : 20, "spellpower" : 20 },
@@ -19,17 +19,6 @@
         "primarySkills" : { "attack" : 3, "defence" : 1, "knowledge" : 0, "spellpower" : 2 },
         "secondarySkills" : {
             "intimidation" : 0
-        },
-		"tavern" : {
-//			"castle" : 4,
-//			"conflux" : 8,
-//			"dungeon" : 4,
-//			"fortress" : 7,
-//			"inferno" : 5,
-//			"necropolis" : 4,
-//			"rampart" : 5,
-//			"stronghold" : 6,
-//			"tower" : 4
-		}
+        }
     }
 }

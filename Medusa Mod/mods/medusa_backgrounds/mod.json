@@ -1,0 +1,25 @@
+{
+    "name" : "Medusa backgrounds",
+    "description" : "Fullhd main menu, scenario selection screen and loading screen arts with medusas.",
+    "version" : "1.0 2024.02.28",
+    "author" : "swats-the-floran",
+    "contact" : "https://forum.vcmi.eu/t/how-to-open-def-sprites/6174/124",
+    "modType" : "Interface",
+    "changelog" :
+    {
+        "1.0" : ["Initial release"]
+    },
+    "conflicts" :
+    [
+        "ai-loading-screens",
+        "hi-rez-menu",
+        "hota.mainmenu",
+        "tides-of-war.tow-main-menu",
+        "wake-of-gods.mainmenu"
+    ],
+    
+    "czech" : {
+        "name": "Medúzy jsou nejlepší!",
+        "description": "Obrázky pro výběr scénáře a načítací obrazovky s medúzami."
+    }
+}
