@@ -12,7 +12,8 @@
         "1.0 (2024.02.28)" : ["Initial release"],
         "1.1 (2025.01.04)" : ["moved to a separated mod"],
         "1.2 (2025.01.05)" : ["Polish translation by FallainBlack"],
-        "1.3 (2025.01.06)" : ["added petrification spell for lussy silent"]
+        "1.3 (2025.01.06)" : ["added petrification spell for lussy silent"],
+        "1.4 (2025.01.08)" : ["Russian translation"]
     },
 
     "polish": {
@@ -20,6 +21,13 @@
         "description": "Tła z meduzami i dwie nowe bohaterki Lochu",
         "translations": [
             "translation/polish.json"
+        ]
+    },
+    "russian": {
+        "name": "Медузы лучшие девочки",
+        "description": "Бэкграунды с медузами и две новых героини для Подземелья.",
+        "translations": [
+            "translation/russian.json"
         ]
     }
 }
