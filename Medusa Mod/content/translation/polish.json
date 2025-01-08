@@ -9,5 +9,10 @@
 	"hero.medusa-mod.heroic_sisters.sillycate.specialty.description" : "Zwiększa prędkość wszystkich Meduz i Królowych Meduz o 2 oraz podwaja liczbę ich strzał.",
 	"hero.medusa-mod.heroic_sisters.sillycate.specialty.name" : "Meduzy",
 	"hero.medusa-mod.heroic_sisters.sillycate.specialty.tooltip" : "{Meduzy}\n\nPremia dla jednostek: Meduza i Królowa Meduz",
-	"heroClass.medusa-mod.heroic_sisters.sillylord.name" : "Śmieszwładca"
+	"heroClass.medusa-mod.heroic_sisters.sillylord.name" : "Śmieszwładca",
+	"spell.medusa-mod.heroic_sisters.petrificationSpell.description.advanced" : "{Petryfikacja}\n\nZamienia wybraną jednostkę w kamień. Jednostka traci swoją turę i zyskuje 50% redukcji obrażeń. Jednostka nie kontratakuje, jeśli zostanie zaatakowana.\n",
+	"spell.medusa-mod.heroic_sisters.petrificationSpell.description.basic" : "{Petryfikacja}\n\nZamienia wybraną jednostkę w kamień. Jednostka traci swoją turę i zyskuje 50% redukcji obrażeń. Jednostka nie kontratakuje, jeśli zostanie zaatakowana.\n",
+	"spell.medusa-mod.heroic_sisters.petrificationSpell.description.expert" : "{Petryfikacja}\n\nZamienia wybraną jednostkę w kamień. Jednostka traci swoją turę i zyskuje 50% redukcji obrażeń. Jednostka nie kontratakuje, jeśli zostanie zaatakowana.\n",
+	"spell.medusa-mod.heroic_sisters.petrificationSpell.description.none" : "{Petryfikacja}\n\nZamienia wybraną jednostkę w kamień. Jednostka traci swoją turę i zyskuje 50% redukcji obrażeń. Jednostka nie kontratakuje, jeśli zostanie zaatakowana.\n",
+	"spell.medusa-mod.heroic_sisters.petrificationSpell.name" : "Petryfikacja"
 }
