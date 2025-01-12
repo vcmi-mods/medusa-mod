@@ -43,8 +43,7 @@
                     "subtype" : "spell.stoneGaze",
                     "val" : 30,
                     "addInfo" : [0,2],
-                    "limiters" : [
-                    {
+                    "limiters" : [{
                         "type" : "CREATURE_TYPE_LIMITER",
                         "parameters" : [ "medusa", true ]
                     }]

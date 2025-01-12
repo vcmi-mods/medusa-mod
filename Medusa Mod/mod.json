@@ -1,7 +1,7 @@
 {
     "name" : "Medusas are the best girls",
     "description" : "Backgrounds with medusas and two new heroes for Dungeon.",
-    "version" : "1.3",
+    "version" : "1.5",
     "author" : "swats-the-floran",
     "contact" : "https://forum.vcmi.eu/t/how-to-open-def-sprites/6174/124",
     "modType" : "Interface",
@@ -13,7 +13,8 @@
         "1.1 (2025.01.04)" : ["moved to a separated mod"],
         "1.2 (2025.01.05)" : ["Polish translation by FallainBlack"],
         "1.3 (2025.01.06)" : ["added petrification spell for lussy silent"],
-        "1.4 (2025.01.08)" : ["Russian translation"]
+        "1.4 (2025.01.08)" : ["Russian translation"],
+        "1.5 (2025.01.12)" : ["fixed sillylord skills"]
     },
 
     "polish": {

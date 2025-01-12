@@ -37,25 +37,26 @@
             }
         ],
         "specialty" : {
-            "base" : {
-                "limiters" : [
-                    {
-                        "type" : "CREATURE_TYPE_LIMITER",
-                        "parameters" : [ "medusa", true ]
-                    }
-                ]
-            },
             "bonuses" : {
                 "stack_speed" : {
                     "type" : "STACKS_SPEED",
-                    "val" : 2
+                    "val" : 2,
+                    "limiters" : [{
+                        "type" : "CREATURE_TYPE_LIMITER",
+                        "parameters" : [ "medusa", true ]
+                    }]
                 },
                 "more_missiles" : {
                     "type" : "SHOTS",
-                    "val" : 6
+                    "val" : 6,
+                    "limiters" : [{
+                        "type" : "CREATURE_TYPE_LIMITER",
+                        "parameters" : [ "medusa", true ]
+                    }]
                 }
             }
         },
+        "spellbook" : [ "petrificationSpell" ],
         "texts" :
         {
             "name" : "SillyCate Silent",

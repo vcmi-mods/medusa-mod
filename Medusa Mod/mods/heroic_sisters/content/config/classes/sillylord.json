@@ -18,7 +18,35 @@
         "name" : "Sillylord",
         "primarySkills" : { "attack" : 3, "defence" : 1, "knowledge" : 0, "spellpower" : 2 },
         "secondarySkills" : {
-            "intimidation" : 0
+            "airMagic"     : 1,
+            "archery"      : 6,
+            "armorer"      : 6,
+            "artillery"    : 8,
+            "ballistics"   : 7,
+            "diplomacy"    : 3,
+            "eagleEye"     : 2,
+            "earthMagic"   : 3,
+            "estates"      : 4,
+            "fireMagic"    : 2,
+            "firstAid"     : 1,
+            "intelligence" : 0,  // overlord 1
+            "intimidation" : 0,  // no overlord value
+            "leadership"   : 8,
+            "learning"     : 0,  // overlord 4
+            "logistics"    : 8,
+            "luck"         : 1,
+            "mysticism"    : 3,
+            "navigation"   : 4,
+            "necromancy"   : 0,
+            "offence"      : 8,
+            "pathfinding"  : 5,
+            "resistance"   : 6,
+            "scouting"     : 5,
+            "scholar"      : 1,
+            "sorcery"      : 2,
+            "tactics"      : 10,
+            "waterMagic"   : 2,  // overlord 0
+            "wisdom"       : 3
         }
     }
 }
