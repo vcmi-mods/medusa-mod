@@ -40,16 +40,17 @@
             "bonuses" : {
                 "petrification" : {
                     "type" : "SPELL_AFTER_ATTACK",
-                    "subtype" : "spell.stoneGaze",
+                    "subtype" : "stoneGaze",
                     "val" : 30,
                     "addInfo" : [0,2],
                     "limiters" : [{
                         "type" : "CREATURE_TYPE_LIMITER",
-                        "parameters" : [ "medusa", true ]
+                        "creature" : "medusa", 
+						"includeUpgrades" : true
                     }]
                 },
                 "petrificationSpell" : {
-                    "subtype" : "spell.petrificationSpell",
+                    "subtype" : "petrificationSpell",
                     "type" : "SPELL"
                 }
             }

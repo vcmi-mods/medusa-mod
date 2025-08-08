@@ -33,14 +33,14 @@
                 "description": "{Petrifiaction}\n\nTurns target creature into the stone. Creature misses its turn and get 50% damage reduction. Creature does not retaliate if attacked.\n",
                 "cost": 7,
                 "power": 0,
-                "aiValue": 20,
+//                "aiValue": 20,
                 "targetModifier": {"smart": false},
                 "range" : "0",
                 "effects" : {
                     "notActive" : {
                         "val" : 0,
                         "type" : "NOT_ACTIVE",
-                        "subtype" : "spell.stoneGaze",
+                        "subtype" : "stoneGaze",
                         "duration" : [
                             "UNTIL_BEING_ATTACKED",
                             "N_TURNS"

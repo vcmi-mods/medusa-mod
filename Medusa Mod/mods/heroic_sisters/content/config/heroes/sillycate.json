@@ -43,7 +43,8 @@
                     "val" : 2,
                     "limiters" : [{
                         "type" : "CREATURE_TYPE_LIMITER",
-                        "parameters" : [ "medusa", true ]
+                        "creature" : "medusa", 
+						"includeUpgrades" : true
                     }]
                 },
                 "more_missiles" : {
@@ -51,7 +52,8 @@
                     "val" : 6,
                     "limiters" : [{
                         "type" : "CREATURE_TYPE_LIMITER",
-                        "parameters" : [ "medusa", true ]
+                        "creature" : "medusa", 
+						"includeUpgrades" : true
                     }]
                 }
             }

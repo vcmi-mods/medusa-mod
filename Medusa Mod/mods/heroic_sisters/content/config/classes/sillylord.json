@@ -2,6 +2,9 @@
     "sillylord" : {
         "affinity" : "might",
         "defaultTavern" : 5,
+		"tavern" :
+		{
+		},		
         "animation" :
         {
             "battle" : 
